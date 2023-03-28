@@ -1,0 +1,2 @@
+# repo
+Kodluyoruz clock project
